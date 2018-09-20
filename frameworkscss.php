@@ -110,7 +110,7 @@ Siimple es un framework CSS super pequeño para diseños limpios y flat. Es muy 
 </br>
 <h1>7.-Min</h1>
 </br>
-<img src="imagenes/grid.PNG">
+<img src="imagenes/imagen-varios9.JPG">
 </br>
 
 <p>
@@ -120,7 +120,7 @@ Framework super ligero que tiene la particularidad de ser compatible con los nav
 </br>
 <h1>8.-Lotus</h1>
 </br>
-<img src="imagenes/grid.PNG">
+<img src="imagen-varios9.JPG">
 </br>
 <p>
 Framework muy ligero (1.8kb comprimido) que cuenta con todo lo que necesitas para diseñar un sitio web: grid, media queries, formularios y mucho más.
@@ -129,7 +129,7 @@ Framework muy ligero (1.8kb comprimido) que cuenta con todo lo que necesitas par
 </br>
 <h1>9.-Skeleton</h1>
 </br>
-<img src="imagenes/grid.PNG">
+<img src="imagenes/descarga.JPG">
 </br>
 <p>
 Con únicamente 400 líneas de código, Skeleton es ligero como una pluma. Y no solo eso, cuenta con todo lo que puedas necesitar, como grid, tipografía, formularios, media queries... Es decir, no tendrás que insertar nada externo en tu proyecto, con Skeleton te bastará y sobrará.
