@@ -52,8 +52,7 @@
 </nav>
 
 <div class="content">
-</br>
-<h1 align = "center">Programacion Web</h1>
+<h1>Programacion Web</h1>
 </br>
 <p>
 
@@ -67,7 +66,7 @@ De esta forma, apareció el lenguaje Java, que mejoró sustancialmente la intera
  de que éstos recibieran la información que buscaran más rápido y de forma más eficiente.
 
 </br>
-<div align="center"><img src="imagenes/Prograweb.JPG"></div>
+<img src="imagenes/Prograweb.JPG">
 </br>
 
 De esta manera de Java nació Java Script, que ha su vez incentivó a la creación de otros lenguajes que apuntaron a el mimso objetivo como PHP, y así constantemente se están buscando mejoras y nuevas alternativas, todas que apuntan a la interacción del usuario con el sitio.
