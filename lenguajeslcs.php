@@ -9,9 +9,9 @@
   <nav class="navbar is-dark">
   <div class="navbar-brand">
     <a class="navbar-item" href="https://bulma.io">
-      
+
         <img src="https://bulma.io/images/bulma-logo-white.png" alt="Bulma: a modern CSS framework based on Flexbox" width="112" height="28">
-      
+
     </a>
     <div class="navbar-burger burger" data-target="navMenuColordark-example">
       <span></span>
@@ -26,7 +26,7 @@
         Introduccion
       </a>
       <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link" href="/documentation/overview/start/">
+        <a class="navbar-link" href="lenguajeslcs.php">
           Lenguajes y Frameworks
         </a>
         <div class="navbar-dropdown">
@@ -48,35 +48,10 @@
         </div>
       </div>
     </div>
-
-    <div class="navbar-end">
-      <div class="navbar-item">
-        <div class="field is-grouped">
-          <p class="control">
-            <a class="bd-tw-button button" data-social-network="Twitter" data-social-action="tweet" data-social-target="http://localhost:4000" target="_blank" href="https://twitter.com/intent/tweet?text=Bulma: a modern CSS framework based on Flexbox&amp;hashtags=bulmaio&amp;url=http://localhost:4000&amp;via=jgthms">
-              <span class="icon">
-                <i class="fab fa-twitter"></i>
-              </span>
-              <span>
-                Tweet
-              </span>
-            </a>
-          </p>
-          <p class="control">
-            <a class="button is-primary" href="https://github.com/jgthms/bulma/archive/0.5.1.zip">
-              <span class="icon">
-                <i class="fas fa-download"></i>
-              </span>
-              <span>Download</span>
-            </a>
-          </p>
-        </div>
-      </div>
-    </div>
   </div>
 </nav>
 
-<div class="content"> 
+<div class="content">
 <!--1.html-->
 <h1>Lenguajes del lado del cliente</h1>
 </br>
@@ -104,7 +79,7 @@ JavaScript se utiliza para crear pequeñas aplicaciones que se encargan de reali
 
 Las Applets de Java es otra manera de incluir código a ejecutar en los clientes que visualizan una web. Son pequeñas aplicaciones que se transfieren con las webs y que el navegador ejecuta en la página. Están precompilados, por lo que su forma de responder varía de los de JavaScript, y son más difíciles de programar, pero también son más potentes e independientes del navegador o SSOO que se utilice.
 
-</p> 
+</p>
 <!--4.VBScript-->
 </br>
 <img src="imagenes/imagen-varios8.JPG">
@@ -120,7 +95,7 @@ VBScript es un lenguaje que también programa scripts, pero sólo es compatible 
 </br>
 <p>
 
-CSS, es una tecnología que nos permite crear páginas web de una manera más exacta. Gracias a las CSS somos mucho más dueños de los resultados finales de la página, pudiendo hacer muchas cosas que no se podía hacer utilizando solamente HTML, como incluir márgenes, tipos de letra, fondos, colores... Incluso podemos definir nuestros propios estilos en un archivo externo a nuestras páginas; así, si en algún momento queremos cambiar alguno de ellos, automáticamente se nos actualizarán todas las páginas vinculadas de nuestro sitio. 
+CSS, es una tecnología que nos permite crear páginas web de una manera más exacta. Gracias a las CSS somos mucho más dueños de los resultados finales de la página, pudiendo hacer muchas cosas que no se podía hacer utilizando solamente HTML, como incluir márgenes, tipos de letra, fondos, colores... Incluso podemos definir nuestros propios estilos en un archivo externo a nuestras páginas; así, si en algún momento queremos cambiar alguno de ellos, automáticamente se nos actualizarán todas las páginas vinculadas de nuestro sitio.
 
 </p>
 <!--6.Flash-->

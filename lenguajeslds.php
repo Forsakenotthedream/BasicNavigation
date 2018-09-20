@@ -9,9 +9,9 @@
   <nav class="navbar is-dark">
   <div class="navbar-brand">
     <a class="navbar-item" href="https://bulma.io">
-      
+
         <img src="https://bulma.io/images/bulma-logo-white.png" alt="Bulma: a modern CSS framework based on Flexbox" width="112" height="28">
-      
+
     </a>
     <div class="navbar-burger burger" data-target="navMenuColordark-example">
       <span></span>
@@ -26,7 +26,7 @@
         Introduccion
       </a>
       <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link" href="/documentation/overview/start/">
+        <a class="navbar-link" href="lenguajeslds.php">
           Lenguajes y Frameworks
         </a>
         <div class="navbar-dropdown">
@@ -48,46 +48,21 @@
         </div>
       </div>
     </div>
-
-    <div class="navbar-end">
-      <div class="navbar-item">
-        <div class="field is-grouped">
-          <p class="control">
-            <a class="bd-tw-button button" data-social-network="Twitter" data-social-action="tweet" data-social-target="http://localhost:4000" target="_blank" href="https://twitter.com/intent/tweet?text=Bulma: a modern CSS framework based on Flexbox&amp;hashtags=bulmaio&amp;url=http://localhost:4000&amp;via=jgthms">
-              <span class="icon">
-                <i class="fab fa-twitter"></i>
-              </span>
-              <span>
-                Tweet
-              </span>
-            </a>
-          </p>
-          <p class="control">
-            <a class="button is-primary" href="https://github.com/jgthms/bulma/archive/0.5.1.zip">
-              <span class="icon">
-                <i class="fas fa-download"></i>
-              </span>
-              <span>Download</span>
-            </a>
-          </p>
-        </div>
-      </div>
-    </div>
   </div>
 </nav>
 
-<div class="content"> 
+<div class="content">
 <h1>Lenguajes Del Lado Cliente-Servidor</h1>
 </br>
 <!--2.DHTML-->
 <img src="imagenes/imagen-varios10.JPG">
 <p>
 
-DHTML no es precisamente un lenguaje de programación. Más bien se trata de una nueva capacidad de la que disponen los navegadores modernos, por la cual se puede tener un mayor control sobre la página que antes. 
+DHTML no es precisamente un lenguaje de programación. Más bien se trata de una nueva capacidad de la que disponen los navegadores modernos, por la cual se puede tener un mayor control sobre la página que antes.
 
-Cualquier página que responde a las actividades del usuario y realiza efectos y funcionalidades se puede englobar dentro del DHTML, pero en este caso nos referimos más a efectos en el navegador por los cuales se pueden mostrar y ocultar elementos de la página, se puede modificar su posición, dimensiones, color, etc. 
+Cualquier página que responde a las actividades del usuario y realiza efectos y funcionalidades se puede englobar dentro del DHTML, pero en este caso nos referimos más a efectos en el navegador por los cuales se pueden mostrar y ocultar elementos de la página, se puede modificar su posición, dimensiones, color, etc.
 
-DHTML nos da más control sobre la página, gracias a que los navegadores modernos incluyen una nueva estructura para visualizar en páginas web denominada capa. Las capas se pueden ocultar, mostrar, desplazar, etc. 
+DHTML nos da más control sobre la página, gracias a que los navegadores modernos incluyen una nueva estructura para visualizar en páginas web denominada capa. Las capas se pueden ocultar, mostrar, desplazar, etc.
 
 </p>
 <!--2.xml-->
