@@ -23,7 +23,7 @@
   <div id="navMenuColordark-example" class="navbar-menu">
     <div class="navbar-start">
       <a class="navbar-item" href="index.php">
-        Introduccion
+        Introduction
       </a>
       <div class="navbar-item has-dropdown is-hoverable">
         <a class="navbar-link" href="index.php">
